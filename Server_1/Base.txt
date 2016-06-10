@@ -1,0 +1,9 @@
+Tryum-2
+gun_deck-2
+engine_room 2-127.0.0.1
+engine_room 2-127.0.0.1
+engine_room 2-127.0.0.1
+engine_room 2-1
+engine_room 2-1
+engine_room 2-1
+engine_room 2-2
