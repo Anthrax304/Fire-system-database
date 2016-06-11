@@ -1,11 +1,11 @@
 Server_1 
 This program reading the data from program Client_1 which simulate fire detector
 Program incudes five classes:
--Server_1
--Domen
--Compare
--Connect
--DB
+1)Server_1
+2)Domen
+3)Compare
+4)Connect
+5)DB
 
 Class Server_1 - in this class created interface of application
 Class Domen - this class performs the function of addinga new device
